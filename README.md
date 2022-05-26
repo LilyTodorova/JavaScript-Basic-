@@ -1,2 +1,2 @@
 # JavaScript-Basic-
-JS-Basic Homeworks and Exams
+JS-Basic Homeworks
